@@ -1,13 +1,13 @@
 ### Instructions to deploy and run the application
 
-  *** Install database ***
+  __Install database__
   
   1) Install postgresql database
   
   2) Create a database named "mpa"
 
 
-  *** Install Application ***
+  __Install Application__
 
   1) Install node.js
 
@@ -25,7 +25,7 @@
 
 
 
-  *** Run Appllication ***
+  __Run Appllication__
 
   1) Run "npm start"
 
