@@ -1,0 +1,26 @@
+{
+  "name": "multiplayer_auction",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.3",
+    "angular": "angularjs#~1.4.9",
+    "angular-ui-router": "ui-router#~0.2.17",
+    "socket.io-client": "~1.4.5",
+    "flat-ui": "~2.2.2",
+    "angular-messages": "~1.4.9"
+  }
+}

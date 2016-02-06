@@ -1,0 +1,62 @@
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.player-widget: {
+  background-color: #009688;
+}
+
+.items-widget: {
+  background-color: #3949ab
+}
+
+.auction-widget: {
+  background-color: #9c27b0;
+}
+
+.vcenter {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 30%;
+  margin: auto;
+}
+
+md-input-container:not(.md-input-invalid).md-input-focused .md-input {
+  border-color: #44C799;
+}
+
+md-input-container:not(.md-input-invalid).md-input-focused label {
+  color: #44C799;
+}
+
+.btn-primary: {
+  background-color: #44C799;
+}
+
+.btn {
+  color:#F0F0F0;
+  background-color: #44C799;
+  margin: 8px;
+  margin-bottom: 0px;
+  width: auto;
+  text-transform: capitalize;
+}
+
+.btn:hover {
+  color: white;
+  background-color: #44C799;
+  margin: 8px;
+  margin-bottom: 0px;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}

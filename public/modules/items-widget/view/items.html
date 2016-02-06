@@ -1,0 +1,18 @@
+<div ng-controller="ItemsController as iCtrl" flex style="margin: 10px; border:2px; border-color:black; background-color: #dddddd">
+  <md-toolbar layout="horizontal" class="widget-toolbar" style="background-color:#009688;">
+    <div style="position:relative; margin-top:auto; margin-bottom:auto; width:100%;text-align:center;">
+      Items
+    </div>
+  </md-toolbar>
+  <md-divider/>
+  <br/><br/>
+  <div class="items-widget" ng-show="!!iCtrl.shared.isLoggedIn">
+
+    <div ng-repeat="item in iCtrl.items" layout="row">
+      <div>{{item.name}}: {{item.quantity}}</div>
+      <md-button class="md-raised md-primary" ng-click="iCtrl.showDialog($event, item)"> Start Auction </md-button>
+      <br/>
+      <md-divider></md-divider>
+    </div>
+  </div>
+</div>

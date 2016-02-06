@@ -1,0 +1,27 @@
+<div ng-controller="AuctionDialogController as aDialog" style="width: 500px;">
+  <md-dialog aria-label="Auction Form">
+    <md-content class="md-padding" style="padding: 10px">
+      <div layout="column">
+        <br/>
+        <md-subheader class="md-primary">{{aDialog.item.name}}</md-subheader>
+        <br/>
+        <md-divider/>
+        <md-input-container flex>
+          <label class="noselect" style="color: rgba(0,0,0,0.54); font-size:14px;">Quantity:</label><br/>
+          <input type="number" min="1" step="1" max="{{aDialog.item.quantity}}" ng-model="aDialog.eventData.quantity" style="width: 50px; margin-top: 8px;"/>
+        </md-input-container>
+        <md-divider/>
+        <md-input-container flex>
+          <label class="noselect" style="color: rgba(0,0,0,0.54); font-size:14px;">Minimum Bid:</label><br/>
+          <input type="number" min="1" step="1" ng-model="aDialog.eventData.min_value" style="width: 100px; margin-top: 8px;"/>
+        </md-input-container>
+      </div>
+    </md-content>
+    <div class="md-actions" style="padding-bottom:15px; padding-right:10px; overflow:hidden; height:70px" layout="row">
+      <div>
+        <button class="btn btn-primary" ng-click="aDialog.startAuction()" class="md-primary"> Start </button>
+        <button class="btn btn-primary" ng-click="aDialog.closeDialog()" class="md-primary"> Close </button>
+      </div>
+    </div>
+  </md-dialog>
+</div>

@@ -1,0 +1,115 @@
+Entities
+
+Player
+  id
+  name
+  coins
+Item
+  id
+  name
+  quantity
+  player_id
+Auction
+  id
+  item_id
+  player_id
+  status -> finished, running, pending
+  min_value
+  quantity
+  bid_id
+  created
+  updated
+Bid
+  id
+  auction_id
+  player_id
+  amount
+  created
+
+
+Events to Cover
+
+** Login **
+  >> Origin: Client
+  >> Input:
+    1. Player name
+  >> Operation:
+    1. Verify if player exists
+    2. If player exists, Return the player, items, and current auction
+    3. If it does not exists, then create the player, and return player, items, and current auctions
+  >> Response:
+    1. Return player data for widget-1
+    2. Return items data for widget-2
+    3. Return auction data for widget-3
+  >> Error:
+    1. Client error: Socket connection not available
+    2. Server error: Internal error
+
+** Start auction **
+  >> Origin: Client
+  >> Input:
+    1. Player Name
+    2. Item Name
+    3. Quantity
+    4. Minimum value
+  >> Operation:
+    1. Verify if the quantity available of the item for auction
+    2. If yes, then create an Auction entry in database
+    3. Respond the Auction data to seller logged-in player
+    4. Broadcast the Auction data to rest of the logged-in players
+  >> Response:
+    1. Auction data for widget-3 of the seller logged-in player
+    2. Auction data for widget-3 for rest of the logged-in player
+  >> Error:
+    1. Client error:
+      1.1. Socket connection not available
+      1.2. Quantity not available for auction
+      1.3. Current auction is not ended yet
+    2. Server error: Internal error
+
+** Place a Bid **
+  >> Origin: Client
+  >> Input:
+    1. Player Name
+    2. Bid Amount
+  >> Operation:
+    1. Create a Bid entry in the Bids table
+    2. Verify if the updated time and current time has <10 seconds of interval, then update the broadcast object with 10 seconds remaining time
+    3. Update the Auction table fields 'bid_id', 'updated' (User transaction of bookshelf)
+    4. Respond the Auction object
+  >> Response:
+    1. Auction data for widget-3 of all the logged-in players
+  >> Error:
+    1. Client error:
+      1.1. Socket connection not available
+    2. Server error: Internal error
+
+** Broadcast Auction Time Update **
+  >> Origin: Server
+  >> Input:
+    N/A
+  >> Operation:
+    1. Broadcast Auction time update to all logged-in players
+  >> Response:
+    N/A
+  >> Error:
+    1. Client error:
+      1.1. Socket connection not available
+    2. Server error: Internal error
+
+** Auction End **
+  >> Origin: Server
+  >> Input:
+    N/A
+  >> Operation:
+    1. Update the Bid table 'status' field
+    2. Update the Auction table 'status', and 'updated' fields
+    3. Update the Items table 'quantity' fields of Seller and Buyer players
+    4. Update the Player table 'coints' field of Seller and Buyer players
+    5. Broadcast Auction end to all logged-in players
+  >> Response:
+    N/A
+  >> Error:
+    1. Client error:
+      1.1. Socket connection not available
+    2. Server error: Internal error

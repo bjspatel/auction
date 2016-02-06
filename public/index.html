@@ -1,0 +1,31 @@
+
+<html lang="en">
+  <head>
+    <title>Multi-Player Auction</title>
+    <link rel="stylesheet" href="/lib/angular-material/angular-material.min.css">
+    <link rel="stylesheet" href="/css/custom.css">
+  </head>
+  <body ng-app='app' ng-cloak>
+
+    <div></div>
+    <div layout="row" width="100%">
+      <player flex></player>
+      <items flex></items>
+      <auction flex></auction>
+    </div>
+
+    <script type="text/javascript" src="/lib/socket.io-client/socket.io.js"></script>
+    <script type="text/javascript" src="/lib/angular/angular.min.js"></script>
+    <script type="text/javascript" src="/lib/angular-animate/angular-animate.min.js"></script>
+    <script type="text/javascript" src="/lib/angular-aria/angular-aria.min.js"></script>
+    <script type="text/javascript" src="/lib/angular-messages/angular-messages.min.js"></script>
+
+    <script type="text/javascript" src="/lib/angular-material/angular-material.min.js"></script>
+
+    <script type="text/javascript" src="modules/app.js"></script>
+    <script type="text/javascript" src="modules/common/common-services.js"></script>
+    <script type="text/javascript" src="modules/player-widget/js/player.js"></script>
+    <script type="text/javascript" src="modules/items-widget/js/items.js"></script>
+    <script type="text/javascript" src="modules/auction-widget/js/auction.js"></script>
+  </body>
+</html>
