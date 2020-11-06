@@ -1,9 +1,63 @@
-<table border="0">
-<td>
-Hi
-</td>
-</table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+      <td style="padding:10px 0;text-align:center" valign="top" align="center">
+                                                                    <div style="background-image: url(https://miro.medium.com/max/581/1*ipCcjhkuB0EYGIEDqRi9_g.png);width: 130px;height: 100px;border-radius: 3px;background-position: center;background-repeat: no-repeat;background-size: cover;"></div>
+                                                                  </td>
 
+  <td style="text-align:left" valign="top" align="center">
+    <div style="font-size:16px;font-weight:bold;line-height:1.2;white-space:normal;word-wrap:break-word;word-break:break-all;word-break:break-word;max-height: 40px;overflow: auto;">
+        <a href="https://medium.com/awesome-cloud/aws-vpc-difference-between-internet-gateway-and-nat-gateway-c9177e710af6" style="color:black;text-decoration:none;font-size: 14px;" target="_blank">AWS — Difference between Internet gateway and NAT gateway</a>
+    </div>
+    <div style="margin:0;padding:2px 0 5px 0;font-size: 15px;">
+        <a style="font-style: italic;font-size: 14px;font-weight: 600;">Medium</a>
+    </div>
+    <div style="margin:0;padding:0 0 10px 0;color:#999999; word-break: break-word;max-height: 75px;overflow: auto;font-size: 13px;">Internet gateway vs NAT gateway in AWS</div>
+  </td>
+  </tr>
+
+ <tr>                                                                 <td>
+    <div style="background-image: url(https://i.ytimg.com/vi/HaEPXoXVf2k/hqdefault.jpg);width: 130px;height: 100px;border-radius: 3px;background-position: center;background-repeat: no-repeat;background-size: cover;"></div>
+    </td>
+    <td style="text-align:left" valign="top" align="center">
+        <div style="font-size:16px;font-weight:bold;line-height:1.2;white-space:normal;word-wrap:break-word;word-break:break-all;word-break:break-word;max-height: 40px;overflow: auto;">
+        <a href="https://www.youtube.com/watch?v=HaEPXoXVf2k" style="color:black;text-decoration:none;font-size: 14px;" target="_blank">AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)</a>
+        </div>
+          <div style="margin:0;padding:2px 0 5px 0;font-size: 15px;">
+          <a style="font-style: italic;font-size: 14px;font-weight: 600;">YouTube</a>
+          </div>
+          <div style="margin:0;padding:0 0 10px 0;color:#999999; word-break: break-word;max-height: 75px;overflow: auto;font-size: 13px;">This session is for those who already have some familiarity with DynamoDB. The patterns and data models discussed in this session summarize a collection of i...</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <div style="background-image: url(https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png);width: 130px;height: 100px;border-radius: 3px;background-position: center;background-repeat: no-repeat;background-size: cover;"></div>
+    </td>
+    <td style="text-align:left" valign="top" align="center">
+        <div style="font-size:16px;font-weight:bold;line-height:1.2;white-space:normal;word-wrap:break-word;word-break:break-all;word-break:break-word;max-height: 40px;overflow: auto;">
+        <a href="https://aws.amazon.com/solutions/implementations/scale-out-computing-on-aws/?did=sl_card&amp;trk=sl_card" style="color:black;text-decoration:none;font-size: 14px;" target="_blank">Scale-Out Computing on AWS | Implementations | AWS Solutions</a>
+        </div>
+        <div style="margin:0;padding:2px 0 5px 0;font-size: 15px;">
+        <a style="font-style: italic;font-size: 14px;font-weight: 600;">Amazon Web Services, Inc.</a>
+        </div>
+        <div style="margin:0;padding:0 0 10px 0;color:#999999; word-break: break-word;max-height: 75px;overflow: auto;font-size: 13px;">Scale-Out Computing on AWS architecture</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <div style="background-image: url(https://i.ytimg.com/vi/MELPeni0p04/maxresdefault.jpg);width: 130px;height: 100px;border-radius: 3px;background-position: center;background-repeat: no-repeat;background-size: cover;"></div>
+    </td>
+    <td style="text-align:left" valign="top" align="center">
+        <div style="font-size:16px;font-weight:bold;line-height:1.2;white-space:normal;word-wrap:break-word;word-break:break-all;word-break:break-word;max-height: 40px;overflow: auto;">
+        <a href="https://www.youtube.com/watch?v=MELPeni0p04&amp;t=657s" style="color:black;text-decoration:none;font-size: 14px;" target="_blank">High Performance Data Streaming with Amazon Kinesis: Best Practices and Common Pitfalls</a>
+        </div>
+        <div style="margin:0;padding:2px 0 5px 0;font-size: 15px;">
+        <a style="font-style: italic;font-size: 14px;font-weight: 600;">YouTube</a>
+        </div>
+        <div style="margin:0;padding:0 0 10px 0;color:#999999; word-break: break-word;max-height: 75px;overflow: auto;font-size: 13px;">Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information. ...</div>
+    </td>
+  </tr>
+
+</table>
 
 
 ### Instructions to deploy and run the application
