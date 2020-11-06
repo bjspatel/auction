@@ -1,8 +1,8 @@
 |  |  |
 | --- | --- |
-| ![](https://miro.medium.com/focal/1200/632/41/35/1*tej1NB_8nBLeyZ5yf39doA.jpeg) | **[Case Closed: Work-From-Home Is the World’s Smartest Management Strategy](https://medium.com/inc./case-closed-work-from-home-is-the-worlds-smartest-management-strategy-11b8932a013a)** <br>Research from Stanford and other sources reveals that working from home vastly increases productivity|
-| ![](https://ssl.gstatic.com/accounts/ui/avatar_2x.png =350x) | **[Gmail](https://mail.google.com/mail/u/0/#inbox)** <br>Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.|
-| ![](https://boards-dev.weavr.ai/dist/icons/weavr.svg =350x) | **[Weavr Boards](https://boards-dev.weavr.ai/ramya.ks3115-3853)** <br>\n    \n    \n        \n        \n        \n             Login\n        \n    \n\n\n    \n    \n    \n  \n|
+| ![](https://miro.medium.com/focal/1200/632/41/35/1*tej1NB_8nBLeyZ5yf39doA.jpeg =250x250) | **[Case Closed: Work-From-Home Is the World’s Smartest Management Strategy](https://medium.com/inc./case-closed-work-from-home-is-the-worlds-smartest-management-strategy-11b8932a013a)** <br>Research from Stanford and other sources reveals that working from home vastly increases productivity|
+| ![](https://ssl.gstatic.com/accounts/ui/avatar_2x.png =250x250) | **[Gmail](https://mail.google.com/mail/u/0/#inbox)** <br>Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.|
+| ![](https://boards-dev.weavr.ai/dist/icons/weavr.svg =250x250) | **[Weavr Boards](https://boards-dev.weavr.ai/ramya.ks3115-3853)** <br>\n    \n    \n        \n        \n        \n             Login\n        \n    \n\n\n    \n    \n    \n  \n|
 
 
 <table>
