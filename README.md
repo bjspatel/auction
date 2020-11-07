@@ -11,6 +11,7 @@ This board is a collection of random interesting content found on cloud-computin
 | <img src="https://cdn.slidesharecdn.com/ss_thumbnails/awsforstart-ups-architecturalbestpracticesautomatingyourinfrastructure-130216032317-phpapp01-thumbnail-4.jpg?cb=1434493428" width="200"> | **[AWS for Start-ups - Architectural Best Practices & Automating Your In…](https://www.slideshare.net/AmazonWebServices/aws-for-startups-architectural-best-practices-automating-your-infrastructure)** <br>Getting started with Amazon Web Services (AWS) is fast and simple. This presentation outlines best practice guidance from the Amazon Web Services team. By Rya…|
 
 
+
 <br>
 <br>
 <br>
