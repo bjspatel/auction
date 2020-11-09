@@ -1,5 +1,26 @@
 
 ---
+## [Community Content](https://weavrboards.com/okteto/board/community-content)
+Our community develops on okteto!
+`kubernetes` `developers` `okteto`
+| | |
+|-|-|
+| <img src="https://i.ytimg.com/vi/2pP4ejSvKjY/maxresdefault.jpg" width="200"> | **[Okteto Tutorial / Walkthrough - Kubernetes and Containers for the 21th Century](https://youtu.be/2pP4ejSvKjY)** <br>Okteto is a graphical interface SASS for Kubernetes. I got up and running in minutes vs. days trying...|
+| <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--BRSYkAAJ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2mkmzm5jl5cnmcuao7q2.png" width="200"> | **[Chaos Engineering with Litmus-portal on Okteto cloud](https://dev.to/code_igx/chaos-engineering-with-litmus-portal-on-okteto-cloud-3g57)** <br>Developing Chaos Engineering Framework in a cloud-native way. Developing applications often requi....|
+| <img src="https://i.ytimg.com/vi/5tndHJXdDkE/maxresdefault.jpg" width="200"> | **[Microservices On Kubernetes - Part 2: Cluster setup](https://www.youtube.com/watch?v=5tndHJXdDkE)** <br>In this course I'm showing tools, frameworks and platforms that speed-up development of JVM microser...|
+| <img src="https://i.ytimg.com/vi/WP1uK2rXsNQ/maxresdefault.jpg" width="200"> | **[Okteto Walk Through](https://www.youtube.com/watch?v=WP1uK2rXsNQ)** <br>https://gitlab.com/gitlab-com/Product/-/issues/731#note_296743344 https://okteto.com/docs/getting-st...|
+| <img src="https://codefresh.io/wp-content/uploads/2020/05/okteto-blog-image.png" width="200"> | **[Local Kubernetes Development with Okteto - Codefresh](https://codefresh.io/kubernetes-tutorial/okteto/)** <br>At Codefresh we understand how much Kubernetes has changed the local flow for developers and we have...|
+| <img src="https://i1.wp.com/piotrminkowski.com/wp-content/uploads/2020/06/octeto-with-springboot-on-kubernetes.png?fit=1140%2C638&ssl=1" width="200"> | **[Development on Kubernetes with Okteto and Spring Boot - Piotr's TechBlog](https://piotrminkowski.com/2020/06/15/development-on-kubernetes-with-okteto-and-spring-boot/)** <br>Okteto Platform seems to be an interesting alternative to the other more popular tools that simplify...|
+| <img src="https://i0.wp.com/piotrminkowski.com/wp-content/uploads/2020/08/course-logo-2.png?fit=960%2C540&ssl=1" width="200"> | **[Development on Kubernetes: Choose a platform - Piotr's TechBlog](https://piotrminkowski.com/2020/08/05/development-on-kubernetes-choose-a-platform)** <br>Presenting platforms providing Kubernetes cluster for development of Java applications locally and r...|
+| <img src="https://weavr-web-assets.s3-us-west-2.amazonaws.com/email-templates/pin-placeholder.jpg" width="200"> | **[Redis Cluster on Okteto Cloud](https://medium.com/@sangambiradar/redis-cluster-on-okteto-cloud-abaf6d0db786)** <br>Install Okteto Cli :-|
+| <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DBWOjoks--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/m3o1hst4z832771hbm19.jpg" width="200"> | **[Litmus SDK: DevTest your chaos experiments with Okteto ](https://dev.to/ksatchit/litmus-sdk-devtest-your-chaos-experiments-with-okteto-4dkj)** <br>Introduction The Litmus developer community is not unfamiliar with the scaffolding utiliti...|
+| <img src="https://miro.medium.com/max/1200/1*QnX-NyzNCsyQHiXMFypoWA.png" width="200"> | **[Run your own Chainlink developer Node with Okteto](https://medium.com/@jeevanjotsinghvital/run-your-own-chainlink-developer-node-with-okteto-8adbc9a98664)** <br>Hello Everyone,|
+<p align="right">Knowledge Board by <a href="https://weavr.ai">Weavr</a></p>
+---
+
+
+
+---
 
 ## [RingCentral Developers Community Content](https://weavrboards.com/ringcentraldevs/board/ringcentral-developers-community-content)
 Check out the amazing blogs, tutorials, slide decks, videos, and more created by our incredible developer community!  Learn more about RingCentral Developers at https://developers.ringcentral.com
