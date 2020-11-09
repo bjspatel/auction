@@ -3,7 +3,7 @@ This board is a collection of random interesting content found on cloud-computin
 `cloud` `cloud-computing` `aws` `azure` `pileup`
 |  |  |
 | --- | --- |
-| <img src="https://weavr-web-assets.s3-us-west-2.amazonaws.com/email-templates/pin-placeholder.jpg" width="200"> | **[Home page &#124; LoRa Alliance®](https://lora-alliance.org/)** <br>LoRa Alliance® The LoRa Alliance ® is the fastest growing technology alliance. A non-profit association...|
+| <img src="https://weavr-web-assets.s3-us-west-2.amazonaws.com/email-templates/pin-placeholder.jpg" width="200"> | **[Home page &#124; LoRa Alliance®](https://lora-alliance.org/)** <br>LoRa Alliance® The LoRa Alliance ® is the fastest growing technology alliance. A non-profit associa...|
 | <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="200"> | **[Scale-Out Computing on AWS &#124; Implementations &#124; AWS Solutions](https://aws.amazon.com/solutions/implementations/scale-out-computing-on-aws/?did=sl_card&trk=sl_card)** <br>Scale-Out Computing on AWS architecture|
 
 
