@@ -1,9 +1,12 @@
-## [cloud-computing-pileup](https://boards-dev.weavr.ai/brijesh/board/cloud-computing-pileup)
+## [cloud-computing-pileup](https://boards-dev.weavr.ai/brijesh/boards/cloud-computing-pileup)
 This board is a collection of random interesting content found on cloud-computing. The board later will be used to create more specialized boards.
 `cloud` `cloud-computing` `aws` `azure` `pileup`
 |  |  |
 | --- | --- |
 | <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="200"> | **[Scale-Out Computing on AWS &#124; Implementations &#124; AWS Solutions](https://aws.amazon.com/solutions/implementations/scale-out-computing-on-aws/?did=sl_card&trk=sl_card)** <br>Scale-Out Computing on AWS architecture|
+
+
+
 
 
 ## cloud-computing-pileup
