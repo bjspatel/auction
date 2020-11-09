@@ -1,7 +1,7 @@
 
-![Alt text](https://cdn.brainpop.com/socialstudies/social_studies_280x280.svg)
+![Alt text](https://cdn.brainpop.com/socialstudies/social_studies_280x280.svg =200x)
 
-![Alt text](https://i.stack.imgur.com/rcNMz.png)
+![Alt text](https://i.stack.imgur.com/rcNMz.png =200x)
 
 
 
