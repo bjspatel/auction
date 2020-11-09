@@ -1,21 +1,7 @@
 
 ![Alt text](https://cdn.brainpop.com/socialstudies/social_studies_280x280.svg 200x)
 
-<svg version="1.1" viewBox="0.0 0.0 960.0 720.0" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
-<clipPath id="p.0">
-<path id="a" d="m0 0l960.0 0l0 720.0l-960.0 0l0 -720.0z" clip-rule="nonzero"/></clipPath>
-
-<g clip-path="url(#p.0)">
-
-<path id="b" fill="#000000" fill-opacity="0.0" d="m0 0l960.0 0l0 720.0l-960.0 0z" fill-rule="evenodd"/>
-
-<path  id="c" fill="#999999" d="m393.1811 309.8189l0 0c0 -37.33795 30.268372 -67.60631 67.60632 -67.60631l0 0c17.930298 0 35.12622 7.1227875 47.80487 19.801437c12.67865 12.678619 19.801392 29.874542 19.801392 47.80487l0 0c0 37.33792 -30.268341 67.60629 -67.60626 67.60629l0 0c-37.33795 0 -67.60632 -30.268372 -67.60632 -67.60629z" fill-rule="evenodd"/>
-
-<path  id="d" stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m393.1811 309.8189l0 0c0 -37.33795 30.268372 -67.60631 67.60632 -67.60631l0 0c17.930298 0 35.12622 7.1227875 47.80487 19.801437c12.67865 12.678619 19.801392 29.874542 19.801392 47.80487l0 0c0 37.33792 -30.268341 67.60629 -67.60626 67.60629l0 0c-37.33795 0 -67.60632 -30.268372 -67.60632 -67.60629z" fill-rule="evenodd"/>
-
-</g>
-
-</svg>
+![MMI™ Flammarion Logo Badge](https://cdn.brainpop.com/socialstudies/social_studies_280x280.svg){:height="500px" width="500px"}
 
 ## cloud-computing-pileup
 This board is a collection of random interesting content found on cloud-computing. The board later will be used to create more specialized boards.
