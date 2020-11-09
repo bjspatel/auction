@@ -5,7 +5,8 @@
 | --- | --- |
 | <img src="https://miro.medium.com/max/1200/1*fI8I3jDgkG8pzMUg1cXdJA.png" width="200"> | **[Adding 3D Models to your Website](https://medium.com/samsung-internet-dev/adding-3d-models-to-your-website-d374a8cbbadd)** <br>The DIY way|
 | <img src="https://weavr-web-assets.s3-us-west-2.amazonaws.com/email-templates/pin-placeholder.jpg" width="200"> | **[Add 3D models to the web with &lt;model-viewer&gt;](https://codelabs.developers.google.com/codelabs/model-viewer/index.html#0)** <br>Today it is common for people to carry devices capable of augmented reality (AR) and virtual reality...|
-<p align="center">Centered text</p>
+<p align="center">[Powered by](https://weavr.ai)</p>
+<p align="center"><img src="https://s3-us-west-2.amazonaws.com/weavr-web-assets/email-templates/Weavr_Logo.png" width="70"></p>
 
 
 
