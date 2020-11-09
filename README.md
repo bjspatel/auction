@@ -3,6 +3,18 @@ This board is a collection of random interesting content found on cloud-computin
 `cloud` `cloud-computing` `aws` `azure` `pileup`
 |  |  |
 | --- | --- |
+| <img src=\"https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png\" width=\"200\"> | **[Scale-Out Computing on AWS &#124; Implementations &#124; AWS Solutions](https://aws.amazon.com/solutions/implementations/scale-out-computing-on-aws/?did=sl_card&trk=sl_card)** <br>Scale-Out Computing on AWS architecture|"
+
+
+---
+
+
+
+## cloud-computing-pileup
+This board is a collection of random interesting content found on cloud-computing. The board later will be used to create more specialized boards.
+`cloud` `cloud-computing` `aws` `azure` `pileup`
+|  |  |
+| --- | --- |
 | <img src="https://miro.medium.com/max/581/1*ipCcjhkuB0EYGIEDqRi9_g.png" width="200"> | **[AWS — Difference between Internet gateway and NAT gateway](https://medium.com/awesome-cloud/aws-vpc-difference-between-internet-gateway-and-nat-gateway-c9177e710af6)** <br>Internet gateway vs NAT gateway in AWS|
 | <img src="https://i.ytimg.com/vi/HaEPXoXVf2k/hqdefault.jpg" width="200"> | **[AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)](https://www.youtube.com/watch?v=HaEPXoXVf2k)** <br>This session is for those who already have some familiarity with DynamoDB. The patterns and data models discussed in this session summarize a collection of i...|
 | <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="200"> | **[Scale-Out Computing on AWS &#124; Implementations &#124; AWS Solutions](https://aws.amazon.com/solutions/implementations/scale-out-computing-on-aws/?did=sl_card&trk=sl_card)** <br>Scale-Out Computing on AWS architecture|
