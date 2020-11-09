@@ -4,10 +4,6 @@
 ![Alt text](https://i.stack.imgur.com/rcNMz.png)
 
 <svg width="280px" height="280px" viewBox="0 0 280 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
-    <title>social_studies_280x280</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="social_studies_280x280" fill-rule="nonzero">
             <g id="bp_subject_icon_social-studies" transform="translate(47.000000, 47.000000)">
