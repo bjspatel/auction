@@ -1,3 +1,13 @@
+## [3d model app reference](https://boards-dev.weavr.ai/brijesh/board/3d-model-app-reference)
+
+
+|  |  |
+| --- | --- |
+| <img src="https://miro.medium.com/max/1200/1*fI8I3jDgkG8pzMUg1cXdJA.png" width="200"> | **[Adding 3D Models to your Website](https://medium.com/samsung-internet-dev/adding-3d-models-to-your-website-d374a8cbbadd)** <br>The DIY way|
+| <img src="https://weavr-web-assets.s3-us-west-2.amazonaws.com/email-templates/pin-placeholder.jpg" width="200"> | **[Add 3D models to the web with <model-viewer>](https://codelabs.developers.google.com/codelabs/model-viewer/index.html#0)** <br>Today it is common for people to carry devices capable of augmented reality (AR) and virtual reality...|
+  
+
+
 ## [cloud-computing-pileup](https://boards-dev.weavr.ai/brijesh/board/cloud-computing-pileup)
 This board is a collection of random interesting content found on cloud-computing. The board later will be used to create more specialized boards.
 `cloud` `cloud-computing` `aws` `azure` `pileup`
