@@ -13,6 +13,31 @@
 
 ---
 
+
+
+
+---
+
+## [cloud-computing-pileup](https://boards-dev.weavr.ai/brijesh/board/cloud-computing-pileup)
+This board is a collection of random interesting content found on cloud-computing. The board later will be used to create more specialized boards.
+`cloud` `cloud-computing` `aws` `azure` `pileup`
+| | |
+|-|-|
+| <img src="https://weavr-web-assets.s3-us-west-2.amazonaws.com/email-templates/pin-placeholder.jpg" width="200"> | **[Home page &#124; LoRa Alliance®](https://lora-alliance.org/)** <br>LoRa Alliance® The LoRa Alliance ® is the fastest growing technology alliance. A non-profit associa...|
+| <img src="https://miro.medium.com/max/581/1*ipCcjhkuB0EYGIEDqRi9_g.png" width="200"> | **[AWS — Difference between Internet gateway and NAT gateway](https://medium.com/awesome-cloud/aws-vpc-difference-between-internet-gateway-and-nat-gateway-c9177e710af6)** <br>Internet gateway vs NAT gateway in AWS|
+| <img src="https://i.ytimg.com/vi/HaEPXoXVf2k/hqdefault.jpg" width="200"> | **[AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)](https://www.youtube.com/watch?v=HaEPXoXVf2k)** <br>This session is for those who already have some familiarity with DynamoDB. The patterns and data mod...|
+| <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="200"> | **[Scale-Out Computing on AWS &#124; Implementations &#124; AWS Solutions](https://aws.amazon.com/solutions/implementations/scale-out-computing-on-aws/?did=sl_card&trk=sl_card)** <br>Scale-Out Computing on AWS architecture|
+| <img src="https://i.ytimg.com/vi/MELPeni0p04/maxresdefault.jpg" width="200"> | **[High Performance Data Streaming with Amazon Kinesis: Best Practices and Common Pitfalls](https://www.youtube.com/watch?v=MELPeni0p04&t=657s)** <br>Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can g...|
+| <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="200"> | **[Architecture Resources &#124; AWS](https://aws.amazon.com/architecture/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&reference-architecture.sort-by=item.additionalFields.sortDate&reference-architecture.sort-order=desc)** <br>Explore a collection of technical resources to help you build more effectively and efficiently in th...|
+| <img src="https://cdn.slidesharecdn.com/ss_thumbnails/awsforstart-ups-architecturalbestpracticesautomatingyourinfrastructure-130216032317-phpapp01-thumbnail-4.jpg?cb=1434493428" width="200"> | **[AWS for Start-ups - Architectural Best Practices & Automating Your In…](https://www.slideshare.net/AmazonWebServices/aws-for-startups-architectural-best-practices-automating-your-infrastructure)** <br>Getting started with Amazon Web Services (AWS) is fast and simple. This presentation outlines best p...|
+<p align="center">Powered by</p>
+<a href="https://weavr.ai"><p align="center"><img src="https://s3-us-west-2.amazonaws.com/weavr-web-assets/email-templates/Weavr_Logo.png" width="50"></p></a>
+
+---
+
+
+
+
 ### Instructions to deploy and run the application
 
   __Install database__
