@@ -1,4 +1,4 @@
-## [cloud-computing-pileup](https://boards-dev.weavr.ai/brijesh/boards/cloud-computing-pileup)
+## [cloud-computing-pileup](https://boards-dev.weavr.ai/brijesh/board/cloud-computing-pileup)
 This board is a collection of random interesting content found on cloud-computing. The board later will be used to create more specialized boards.
 `cloud` `cloud-computing` `aws` `azure` `pileup`
 |  |  |
