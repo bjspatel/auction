@@ -1,5 +1,6 @@
 
 ---
+
 ## [Community Content](https://weavrboards.com/okteto/board/community-content)
 Our community develops on okteto!
 `kubernetes` `developers` `okteto`
