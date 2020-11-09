@@ -1,7 +1,5 @@
 
-![Alt text](https://cdn.brainpop.com/socialstudies/social_studies_280x280.svg)
-
-![Alt text](https://i.stack.imgur.com/rcNMz.png)
+![Alt text](https://cdn.brainpop.com/socialstudies/social_studies_280x280.svg 200x)
 
 <svg width="280px" height="280px" viewBox="0 0 280 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
